@@ -1,0 +1,10 @@
+site_name: napari-simple-3d-animation
+site_description: Simple camera animation and video export widget for napari
+site_author: Andrew S. Champion
+
+theme: readthedocs
+
+repo_url: https://github.com/aschampion/napari-simple-3d-animation
+
+pages:
+- Home: index.md
